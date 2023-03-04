@@ -1,4 +1,4 @@
 # Programa-funcional
-ProgramaFuncionalNumPares
+ ProgramaFuncionalNumPares
  Aplicações da Programação Funcional, implementação
 
